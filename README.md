@@ -35,7 +35,3 @@ Abra <http://localhost:8000> em um navegador moderno. A interface está em ingl�
 - `index.html` — interface, arena e referências às fontes/estilos externos.
 - `style.css` — layout, painel de pontuação e efeitos visuais.
 - `script.js` — física, IA da CPU, controles, pontuação, renderização e áudio.
-
-## Créditos
-
-A referência `@coding.stella` presente no título original do HTML foi mantida no código.
