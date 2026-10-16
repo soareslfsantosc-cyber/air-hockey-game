@@ -36,6 +36,6 @@ Abra <http://localhost:8000> em um navegador moderno. A interface está em ingl�
 - `style.css` — layout, painel de pontuação e efeitos visuais.
 - `script.js` — física, IA da CPU, controles, pontuação, renderização e áudio.
 
-## Licença e créditos
+## Créditos
 
-O ZIP de origem não incluiu um arquivo de licença; portanto, a licença de uso e redistribuição ainda não está especificada neste repositório. O título original do HTML contém a referência `@coding.stella`, preservada no código. Confirme os direitos e as condições de uso dos materiais de terceiros antes de redistribuir o projeto.
+A referência `@coding.stella` presente no título original do HTML foi mantida no código.
